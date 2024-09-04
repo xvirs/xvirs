@@ -61,7 +61,11 @@
 
 <h2 align="center">🎓 Educación</h2>
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1FG7QNqH1v6vD1Q9vGsn2nN96mlRAqfGg" alt="Certificado Edutin Academy" width="200"/>
+  <strong>Tecnicatura Universitaria en Programación</strong> (UTN) - Falta Tesis<br>
+  <img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12191589/240px-UTN_logo.jpg" alt="UTN Logo" width="100"/><br>
+  <strong>Certificaciones:</strong><br>
+  <p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1FG7QNqH1v6vD1Q9vGsn2nN96mlRAqfGg" alt="Certificado Edutin Academy" width="200"/>
     <img src="https://drive.google.com/uc?export=view&id=1MMzlkaOq9Juu52g__c1qqU0BpEsePLXH" alt="Certificado Plan 111 Mil" width="200"/>
     <img src="https://drive.google.com/uc?export=view&id=1v7t2V63HEx_MjlHzYe94_leAt397GiS1" alt="Certificado Jetpack Compose" width="200"/>
     <img src="https://drive.google.com/uc?export=view&id=1GjuG4t868f_4Gg-8km7W98uDB4Bx_gLM" alt="Certificado Aceleración Alkemy" width="200"/>
