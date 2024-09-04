@@ -59,9 +59,9 @@
   Edutin Academy (Kotlin)<br>
   <img src="https://drive.google.com/uc?export=view&id=1FG7QNqH1v6vD1Q9vGsn2nN96mlRAqfGg" alt="Certificado Edutin Academy" width="200"/><br>
   Plan 111 Mil (Java)<br>
-  <img src="https://drive.google.com/uc?export=view&id=13Go342liAuuCzoO1Uy0l6F1QSYJIOBni" alt="Certificado Plan 111 Mil" width="200"/><br>
+  <img src="https://drive.google.com/uc?export=view&id=1MMzlkaOq9Juu52g__c1qqU0BpEsePLXH" alt="Certificado Plan 111 Mil" width="200"/><br>
   Jetpack Compose (Kotlin)<br>
-  <img src="https://drive.google.com/uc?export=view&id=1-E2fHAavAyvoxL9uQLis7hehF-J4UOVH" alt="Certificado Jetpack Compose" width="200"/><br>
+  <img src="https://drive.google.com/uc?export=view&id=1GditEjGPGc3pvn2F5RuGbIHRRfHk5Nvj" alt="Certificado Jetpack Compose" width="200"/><br>
   Aceleración Alkemy (Kotlin)<br>
   <img src="https://drive.google.com/uc?export=view&id=1GjuG4t868f_4Gg-8km7W98uDB4Bx_gLM" alt="Certificado Aceleración Alkemy" width="200"/>
 </p>
