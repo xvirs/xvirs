@@ -43,7 +43,12 @@
     <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C853.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
     <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
     <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-%2300C853.svg?style=for-the-badge&logo=kotlin-multiplatform&logoColor=white" alt="Kotlin Multiplatform"/>
-  </p>
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+    <img src="https://img.shields.io/badge/Clean%20Architecture-%2300C853.svg?style=for-the-badge&logo=clean-architecture&logoColor=white" alt="Clean Architecture"/>
+</p>
+
   <br>
 
 <p align="center">
