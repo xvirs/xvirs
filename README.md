@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Xavier Eloy Rosales 👋</h1>
-<h3 align="center">Desarrollador Android | Córdoba, Argentina</h3>
+<h3 align="center">Desarrollador Android</h3>
 
 <p align="center">
   Soy un apasionado desarrollador Android con un enfoque claro: trabajar con las tecnologías más avanzadas del stack de Android. Mi experiencia abarca desde proyectos desafiantes hasta la gestión de equipos. Estoy decidido a destacarme en el desarrollo nativo, especialmente en Kotlin Multiplatform (KMP), y a seguir creciendo como un profesional de tecnología móvil. Mi objetivo es contribuir significativamente a proyectos innovadores y formar parte de un equipo que valore el progreso constante en el ámbito de lo mobile.
