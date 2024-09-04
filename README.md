@@ -46,6 +46,7 @@
   </p>
   <br>
 
+<p align="center">
   <strong>Analista de Datos | CoreBl | Octubre 2019 - Septiembre 2022</strong><br>
   <p align="center">
     <img src="https://img.shields.io/badge/Control--M-%230052CC.svg?style=for-the-badge&logo=control-m&logoColor=white" alt="Control-M"/>
@@ -56,10 +57,11 @@
   </p>
   <br>
 
+<p align="center">
   <strong>QA Tester | Syskey | Diciembre 2018 - Septiembre 2019</strong><br>
   <p align="center">
     <img src="https://img.shields.io/badge/Testing-%2300C853.svg?style=for-the-badge&logo=testing&logoColor=white" alt="Testing"/>
-    <img src="https://img.shields.io/badge/Documentación-%2300C853.svg?style=for-the-badge&logo=documentación&logoColor=white" alt="Documentación"/>
+    <img src="https://img.shields.io/badge/Documentación-%2300C853.svg?style=for-the-badge&logo=file&logoColor=white" alt="Documentación"/>
   </p>
 </p>
 
