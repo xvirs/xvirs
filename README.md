@@ -53,7 +53,7 @@
 
 <h2 align="center">🎓 Educación</h2>
 <p align="center">
-  <strong>Tecnicatura Universitaria en Programación</strong> (UTN) - Falta Tesis<br>
+  <strong>Tecnicatura Universitaria en Programación</strong> (UTN)<br>
   <img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12191589/240px-UTN_logo.jpg" alt="UTN Logo" width="100"/><br>
   <strong>Certificaciones:</strong><br>
   <p align="center">
