@@ -36,28 +36,33 @@
 <h2 align="center">💼 Experiencia Profesional</h2>
 <p align="center">
   <strong>Desarrollador Android | Artekium | Septiembre 2022 - Actualidad</strong><br>
-  <ul>
-    <li><strong>Prosegur:</strong> Realización de corrección de errores y desarrollo de nuevas funcionalidades en una app Android, utilizando <em>Kotlin/Java/XML</em>.</li>
-    <li><strong>App White Label para GYMs:</strong> Implementación completa de una app Android con <em>Kotlin/Compose</em>, enfocada en la personalización y reutilización del código.</li>
-    <li><strong>App de Gestión de Pólizas:</strong> Desarrollo de una solución híbrida utilizando <em>React-Native</em>, facilitando la gestión de seguros.</li>
-    <li><strong>Reciklo:</strong> Implementación de una aplicación multiplataforma con <em>Kotlin Multiplatform (KMP)</em> y <em>Kotlin/Compose</em>, optimizando la gestión de inventarios.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C853.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+    <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
+    <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-%2300C853.svg?style=for-the-badge&logo=kotlin-multiplatform&logoColor=white" alt="Kotlin Multiplatform"/>
+  </p>
   <br>
 
   <strong>Analista de Datos | CoreBl | Octubre 2019 - Septiembre 2022</strong><br>
-  <ul>
-    <li><strong>Claro:</strong> Automatización y monitorización de procesos con <em>Control-M</em>.</li>
-    <li><strong>TECME:</strong> Desarrollo de dashboards interactivos en <em>Power BI</em> para la visualización de datos clave.</li>
-    <li><strong>Vital Can y ASSIST CARD:</strong> Gestión y desarrollo de procesos ETL utilizando <em>SSIS</em> y <em>Pentaho</em>.</li>
-    <li><strong>Telefónica:</strong> Manejo y optimización de bases de datos para la gestión eficiente de la información.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Control--M-%230052CC.svg?style=for-the-badge&logo=control-m&logoColor=white" alt="Control-M"/>
+    <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/SSIS-%2300C853.svg?style=for-the-badge&logo=ssis&logoColor=white" alt="SSIS"/>
+    <img src="https://img.shields.io/badge/Pentaho-%2300C853.svg?style=for-the-badge&logo=pentaho&logoColor=white" alt="Pentaho"/>
+    <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  </p>
   <br>
 
   <strong>QA Tester | Syskey | Diciembre 2018 - Septiembre 2019</strong><br>
-  <ul>
-    <li>Realización de pruebas de software y documentación técnica para asegurar la calidad y funcionalidad de las aplicaciones.</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Testing-%2300C853.svg?style=for-the-badge&logo=testing&logoColor=white" alt="Testing"/>
+    <img src="https://img.shields.io/badge/Documentación-%2300C853.svg?style=for-the-badge&logo=documentación&logoColor=white" alt="Documentación"/>
+  </p>
 </p>
+
 
 <h2 align="center">🎓 Educación</h2>
 <p align="center">
