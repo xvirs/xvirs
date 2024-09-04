@@ -36,38 +36,18 @@
 <h2 align="center">💼 Experiencia Profesional</h2>
 <p align="center">
   <strong>Desarrollador Android | Artekium | Septiembre 2022 - Actualidad</strong><br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C853.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
-    <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-%2300C853.svg?style=for-the-badge&logo=kotlin-multiplatform&logoColor=white" alt="Kotlin Multiplatform"/>
-    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-    <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-    <img src="https://img.shields.io/badge/Clean%20Architecture-%2300C853.svg?style=for-the-badge&logo=clean-architecture&logoColor=white" alt="Clean Architecture"/>
-</p>
+ 
 
   <br>
 
 <p align="center">
   <strong>Analista de Datos | CoreBl | Octubre 2019 - Septiembre 2022</strong><br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Control--M-%230052CC.svg?style=for-the-badge&logo=control-m&logoColor=white" alt="Control-M"/>
-    <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/SSIS-%2300C853.svg?style=for-the-badge&logo=ssis&logoColor=white" alt="SSIS"/>
-    <img src="https://img.shields.io/badge/Pentaho-%2300C853.svg?style=for-the-badge&logo=pentaho&logoColor=white" alt="Pentaho"/>
-    <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  </p>
+  
   <br>
 
 <p align="center">
   <strong>QA Tester | Syskey | Diciembre 2018 - Septiembre 2019</strong><br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Testing-%2300C853.svg?style=for-the-badge&logo=testing&logoColor=white" alt="Testing"/>
-    <img src="https://img.shields.io/badge/Documentación-%2300C853.svg?style=for-the-badge&logo=file&logoColor=white" alt="Documentación"/>
-  </p>
+ 
 </p>
 
 
