@@ -1,5 +1,6 @@
 <h1 align="center">¡Hola! Soy Xavier Eloy Rosales 👋</h1>
-<h3 align="center">Desarrollador Android</h3>
+<
+h3 align="center">Desarrollador Android</h3>
 
 <p align="center">
   Soy un apasionado desarrollador Android con un enfoque claro: trabajar con las tecnologías más avanzadas del stack de Android. Mi experiencia abarca desde proyectos desafiantes hasta la gestión de equipos. Estoy decidido a destacarme en el desarrollo nativo, especialmente en Kotlin Multiplatform (KMP), y a seguir creciendo como un profesional de tecnología móvil. Mi objetivo es contribuir significativamente a proyectos innovadores y formar parte de un equipo que valore el progreso constante en el ámbito de lo mobile.
@@ -57,6 +58,7 @@
   <img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12191589/240px-UTN_logo.jpg" alt="UTN Logo" width="100"/><br>
   <strong>Certificaciones:</strong><br>
   <p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1MMzlkaOq9Juu52g__c1qqU0BpEsePLXHhttps://drive.google.com/file/d/1sJEl8O0AzhSMIawxYyrt6wL0d2NDmivL/view?usp=sharing" alt="Arquitectura android Avanzado" width="200"/>
 <img src="https://drive.google.com/uc?export=view&id=1FG7QNqH1v6vD1Q9vGsn2nN96mlRAqfGg" alt="Certificado Edutin Academy" width="200"/>
     <img src="https://drive.google.com/uc?export=view&id=1MMzlkaOq9Juu52g__c1qqU0BpEsePLXH" alt="Certificado Plan 111 Mil" width="200"/>
     <img src="https://drive.google.com/uc?export=view&id=1v7t2V63HEx_MjlHzYe94_leAt397GiS1" alt="Certificado Jetpack Compose" width="200"/>
