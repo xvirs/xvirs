@@ -4,7 +4,81 @@
 <p align="center"> Soy un desarrollador apasionado por el ecosistema Android y el aprendizaje continuo, con experiencia en desarrollo nativo, Kotlin Multiplatform (KMP) y Jetpack Compose. Me motiva crear aplicaciones móviles optimizadas, utilizando arquitecturas sólidas y aplicando principios de clean code para garantizar calidad y escalabilidad. </p> <p align="center"> 🎯 **Objetivo profesional:** Seguir perfeccionando mis habilidades y conocimientos para convertirme en un desarrollador Android integral, capaz de abordar proyectos desafiantes, diseñar soluciones innovadoras y aportar valor a equipos que prioricen la excelencia técnica y el crecimiento mutuo. </p>
 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
-<p align="center"> <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C853.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/> <img src="https://img.shields.io/badge/Clean%20Architecture-%23A80030.svg?style=for-the-badge&logo=clean-architecture&logoColor=white" alt="Clean Architecture"/> <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-%23A80030.svg?style=for-the-badge&logo=kotlin-multiplatform&logoColor=white" alt="Kotlin Multiplatform"/> <img src="https://img.shields.io/badge/Room-%23FF6F00.svg?style=for-the-badge&logo=room&logoColor=white" alt="Room"/> <img src="https://img.shields.io/badge/Retrofit-%2300C853.svg?style=for-the-badge&logo=retrofit&logoColor=white" alt="Retrofit"/> <img src="https://img.shields.io/badge/Dagger%20Hilt-%23A80030.svg?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/> <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/Agile-%23FF6F00.svg?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/> </p>
+
+<h3>Diseño de Interfaz de Usuario</h3>
+<ul>
+  <li><strong>XML:</strong> Diseño tradicional de vistas para aplicaciones Android.</li>
+  <li><strong>Jetpack Compose:</strong> Creación de interfaces modernas y declarativas optimizadas.</li>
+  <li><strong>Material Design:</strong> Implementación de los principios de diseño de Material para garantizar consistencia y accesibilidad.</li>
+</ul>
+
+<h3>Patrones de Arquitectura</h3>
+<ul>
+  <li><strong>MVVM:</strong> Separación clara entre la UI y la lógica de negocio.</li>
+  <li><strong>Clean Architecture:</strong> Estructuración escalable y mantenible de proyectos.</li>
+</ul>
+
+<h3>Inyección de Dependencias</h3>
+<ul>
+  <li><strong>Dagger Hilt:</strong> Framework de inyección de dependencias robusto y eficiente.</li>
+  <li><strong>Koin:</strong> Biblioteca ligera para inyección de dependencias basada en Kotlin.</li>
+</ul>
+
+<h3>Persistencia de Datos</h3>
+<ul>
+  <li><strong>Room:</strong> Almacenamiento de datos locales en bases de datos SQLite.</li>
+  <li><strong>SQLDelight:</strong> Generación de código SQL para bases de datos fuertemente tipadas.</li>
+</ul>
+
+<h3>Comunicación con Servidores</h3>
+<ul>
+  <li><strong>Retrofit:</strong> Consumo de APIs RESTful de manera eficiente.</li>
+  <li><strong>Ktor:</strong> Framework multiplataforma para consumir y crear APIs.</li>
+</ul>
+
+<h3>Programación Reactiva</h3>
+<ul>
+  <li><strong>LiveData:</strong> Gestión de datos observables en tiempo real.</li>
+  <li><strong>Corrutinas:</strong> Solución para programación asincrónica en Kotlin.</li>
+</ul>
+
+<h3>Pruebas y Depuración</h3>
+<ul>
+  <li><strong>Debugging Tools:</strong> Uso de herramientas como Android Profiler y Logcat para identificar y resolver errores.</li>
+</ul>
+
+<h3>Control de Versiones</h3>
+<ul>
+  <li><strong>Git:</strong> Control de versiones distribuido.</li>
+  <li><strong>GitHub/GitLab:</strong> Colaboración en proyectos con control de versiones.</li>
+</ul>
+
+<h3>Desarrollo Ágil y Colaboración</h3>
+<ul>
+  <li><strong>Jira:</strong> Gestión de tareas y seguimiento en entornos de desarrollo ágil.</li>
+  <li><strong>Agile/Scrum:</strong> Metodologías para trabajar de manera colaborativa y flexible.</li>
+</ul>
+
+<h3>Multiplataforma</h3>
+<ul>
+  <li><strong>Kotlin Multiplatform (KMP):</strong> Desarrollo de aplicaciones compartiendo lógica de negocio en diferentes plataformas.</li>
+  <li><strong>React Native:</strong> Creación de aplicaciones móviles con un enfoque multiplataforma (conocimientos básicos).</li>
+</ul>
+
+<h3>Últimas Tendencias y Herramientas</h3>
+<ul>
+  <li><strong>Android Jetpack:</strong> Conjunto de bibliotecas modernas para desarrollo de aplicaciones.</li>
+  <li><strong>Server-Driven UI:</strong> Enfoque para optimizar la gestión y personalización de interfaces desde el servidor.</li>
+  <li><strong>Inteligencia Artificial (IA):</strong> Integración de tecnologías emergentes en aplicaciones móviles.</li>
+  <li><strong>Firebase:</strong>
+    <ul>
+      <li><strong>Authentication:</strong> Gestión de usuarios mediante autenticación segura.</li>
+      <li><strong>Crashlytics:</strong> Monitoreo y reporte de errores en tiempo real.</li>
+      <li><strong>Analytics:</strong> Análisis del comportamiento de los usuarios para toma de decisiones informadas.</li>
+    </ul>
+  </li>
+</ul>
+
 
 <h2 align="center">💼 Experiencia Destacada</h2> 
 <p align="center"> <strong>Desarrollador Android | Artekium</strong> (2022 - Actualidad)<br> - Migración de código de Java a Kotlin en aplicaciones existentes.<br> - Desarrollo desde cero de apps usando **Jetpack Compose** y **Kotlin Multiplatform (KMP)**.<br> - Liderazgo técnico en equipos pequeños y toma de decisiones clave.<br> - Participación en el diseño de arquitecturas robustas con **Clean Architecture**.<br> </p> <p align="center"> <strong>Analista de Datos | CoreBI</strong> (2019 - 2022)<br> - Manejo de bases de datos y desarrollo de dashboards en Power BI.<br> - Optimización de procesos ETL con SSIS y Pentaho.<br> </p> <p align="center"> <strong>QA Tester | SysKey</strong> (2018 - 2019)<br> - Testing y documentación de procesos para sistemas críticos.<br> </p>
