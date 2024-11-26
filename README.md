@@ -141,10 +141,6 @@
   </li>
 </ul>
 
-
-
-<h2 align="center">💼 Experiencia Destacada</h2> 
-<p align="center"> <strong>Desarrollador Android | Artekium</strong> (2022 - Actualidad)<br> - Migración de código de Java a Kotlin en aplicaciones existentes.<br> - Desarrollo desde cero de apps usando **Jetpack Compose** y **Kotlin Multiplatform (KMP)**.<br> - Liderazgo técnico en equipos pequeños y toma de decisiones clave.<br> - Participación en el diseño de arquitecturas robustas con **Clean Architecture**.<br> </p> <p align="center"> <strong>Analista de Datos | CoreBI</strong> (2019 - 2022)<br> - Manejo de bases de datos y desarrollo de dashboards en Power BI.<br> - Optimización de procesos ETL con SSIS y Pentaho.<br> </p> <p align="center"> <strong>QA Tester | SysKey</strong> (2018 - 2019)<br> - Testing y documentación de procesos para sistemas críticos.<br> </p>
 <h2 align="center">🚀 Proyectos Destacados</h2>
 [App de Gestión de GYMs (White Label)]
 
