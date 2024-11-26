@@ -153,5 +153,18 @@ Lógica de negocio compartida entre Android e iOS con KMP.
 Coordinación directa con el cliente para cumplir objetivos específicos.
 
 <h2 align="center">📫 Contacto</h2>
-<p align="center"> 📧 **Email:** [rosales.xavier.eloy@gmail.com](mailto:rosales.xavier.eloy@gmail.com)<br> 💼 **LinkedIn:** [Xavier Eloy Rosales](https://www.linkedin.com/in/rosalesxaviereloy/)<br> 💻 **GitHub:** [GitHub Profile](https://github.com/rosalesxaviereloy)<br> </p>
-<p align="center"> ¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos desafiantes y contribuir con mis conocimientos. 🚀 </p>
+<p align="center">
+  <a href="mailto:rosales.xavier.eloy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/rosalesxaviereloy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/rosalesxaviereloy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+<p align="center">
+  ¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos desafiantes y contribuir con mis conocimientos. 🚀
+</p>
+
