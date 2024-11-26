@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300C853.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
     <strong> :</strong> Creación de interfaces modernas y declarativas optimizadas.
   </li>
+
   <li>
     <img src="https://img.shields.io/badge/Material%20Design-%23222.svg?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/> 
     <strong> :</strong> Principios para interfaces consistentes y accesibles.
@@ -150,6 +151,7 @@ Configuración personalizada para múltiples clientes.
 
 Lógica de negocio compartida entre Android e iOS con KMP.
 Coordinación directa con el cliente para cumplir objetivos específicos.
-<h2 align="center">🎓 Educación y Certificaciones</h2> <p align="center"> - **Tecnicatura Universitaria en Programación (UTN)**<br> - Certificación en Arquitectura Android Avanzada<br> - Certificación en Jetpack Compose por Edutin Academy<br> </p>
-<h2 align="center">📫 Contacto</h2> <p align="center"> 📧 **Email:** [rosales.xavier.eloy@gmail.com](mailto:rosales.xavier.eloy@gmail.com)<br> 💼 **LinkedIn:** [Xavier Eloy Rosales](https://www.linkedin.com/in/rosalesxaviereloy/)<br> 💻 **GitHub:** [GitHub Profile](https://github.com/rosalesxaviereloy)<br> </p>
+
+<h2 align="center">📫 Contacto</h2>
+<p align="center"> 📧 **Email:** [rosales.xavier.eloy@gmail.com](mailto:rosales.xavier.eloy@gmail.com)<br> 💼 **LinkedIn:** [Xavier Eloy Rosales](https://www.linkedin.com/in/rosalesxaviereloy/)<br> 💻 **GitHub:** [GitHub Profile](https://github.com/rosalesxaviereloy)<br> </p>
 <p align="center"> ¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos desafiantes y contribuir con mis conocimientos. 🚀 </p>
