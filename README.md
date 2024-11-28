@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! Soy Xavier Eloy Rosales 👋</h1> 
 <h3 align="center">Desarrollador Android | Kotlin Enthusiast</h3>
 
-<p align="center"> Soy un desarrollador apasionado por el ecosistema Android y el aprendizaje continuo, con experiencia en desarrollo nativo, Kotlin Multiplatform (KMP) y Jetpack Compose. Me motiva crear aplicaciones móviles optimizadas, utilizando arquitecturas sólidas y aplicando principios de clean code para garantizar calidad y escalabilidad. </p> <p align="center"> 🎯 **Objetivo profesional:** Seguir perfeccionando mis habilidades y conocimientos para convertirme en un desarrollador Android integral, capaz de abordar proyectos desafiantes, diseñar soluciones innovadoras y aportar valor a equipos que prioricen la excelencia técnica y el crecimiento mutuo. </p>
+<p align="center"> Soy un desarrollador apasionado por el ecosistema Android y el aprendizaje continuo, con experiencia en desarrollo nativo, Kotlin Multiplatform (KMP) y Jetpack Compose. Me motiva crear aplicaciones móviles optimizadas, utilizando arquitecturas sólidas y aplicando principios de clean code para garantizar calidad y escalabilidad. </p> <p align="center"> 🎯 **Objetivo profesional:** Seguir perfeccionando mis habilidades y conocimientos para convertirme en un desarrollador Android integral, capaz de abordar proyectos desafiantes, diseñar soluciones innovadoras y aportar valor a equipos que prioricen la excelencia técnica y el crecimiento mutuo. </
+p>
 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 
@@ -143,14 +144,7 @@
 </ul>
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
-[App de Gestión de GYMs (White Label)]
-
-Desarrollo desde cero usando Jetpack Compose.
-Configuración personalizada para múltiples clientes.
-[App de Stocks (KMP)]
-
-Lógica de negocio compartida entre Android e iOS con KMP.
-Coordinación directa con el cliente para cumplir objetivos específicos.
+-Se estan realizando cambios mas didacticos respecto a dichos proyectos para mostrarlos con mas claridad
 
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
