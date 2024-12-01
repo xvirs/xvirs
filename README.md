@@ -49,7 +49,6 @@
 <ul>
   <li>
     <img src="https://img.shields.io/badge/SQLDelight-%230095D5.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQLDelight"/> 
-
     <strong> :</strong> Generación de código SQL para bases de datos fuertemente tipadas.
   </li>
   <li>
