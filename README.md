@@ -36,7 +36,8 @@
 <h3>🔗 Inyección de Dependencias</h3>
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/Dagger%20Hilt-%23A80030.svg?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/> 
+    <
+img src="https://img.shields.io/badge/Dagger%20Hilt-%23A80030.svg?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/> 
     <strong> :</strong> Framework robusto para inyección de dependencias.
   </li>
   <li>
@@ -147,7 +148,7 @@
 
   <h3>🎥 <a href="https://github.com/xvirs/MovieLists">MovieLists</a></h3>
   <p><strong>Descripción:</strong> Una aplicación creada para la gestión y organización de listas de películas. Desarrollada de forma individual utilizando lo último en el stack tecnológico de Android, incluyendo <em>Jetpack Compose</em>, <em>Clean Architecture</em> y <em>Kotlin Coroutines</em>.</p>
-  <p><strong>Estado:</strong> Publicada en la <a href="https://play.google.com/">Play Store</a>.</p>
+  <p><strong>Estado:</strong> Publicada en la <a href="https://play.google.com/apps/testing/com.proyect.movielists">Play Store</a>.</p>
   <hr>
 
   <h3>♻️ <a href="https://github.com/xvirs/Reciklo">Reciklo</a></h3>
