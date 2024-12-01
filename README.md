@@ -146,12 +146,26 @@ p>
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
+<div align="center">
 
-1. [**MovieLists**](https://github.com/xvirs/MovieLists): MovieLists se creó con el objetivo de programar de forma individual una aplicación utilizando lo último en el stack tecnológico de Android y subirla a la Play Store.
-2. [**Reciklo**](https://github.com/xvirs/Reciklo): Reciklo es una aplicación KMP (Kotlin Multiplataforma) realizada en un entorno laboral, y actualmente se encuentra en producción.
-3. [**My_Template**](https://github.com/xvirs/My_Template): My_Template documenta la implementación de diferentes frameworks utilizados para resolver cuestiones comunes en el desarrollo de Android para futuras implementaciones en otros proyectos.
+  <h3><a href="https://github.com/xvirs/MovieLists">🎥 MovieLists</a></h3>
+  <p><strong>Descripción:</strong> Una aplicación creada para la gestión y organización de listas de películas. Desarrollada de forma individual utilizando lo último en el stack tecnológico de Android, incluyendo <em>Jetpack Compose</em>, <em>Clean Architecture</em> y <em>Kotlin Coroutines</em>.</p>
+  <p><strong>Estado:</strong> Publicada en la <a href="https://play.google.com/">Play Store</a>.</p>
+  <hr style="width: 80%;">
 
-Destaco estas aplicaciones por haber participado en el 100% de su desarrollo desde el principio hasta el fin.
+  <h3><a href="https://github.com/xvirs/Reciklo">♻️ Reciklo</a></h3>
+  <p><strong>Descripción:</strong> Una aplicación multiplataforma (<em>Kotlin Multiplatform - KMP</em>) diseñada para promover el reciclaje en un entorno laboral. Incluye características como notificaciones push y sincronización en tiempo real entre dispositivos.</p>
+  <p><strong>Estado:</strong> Actualmente en producción, utilizada activamente en su entorno empresarial.</p>
+  <hr style="width: 80%;">
+
+  <h3><a href="https://github.com/xvirs/My_Template">📚 My_Template</a></h3>
+  <p><strong>Descripción:</strong> Un repositorio que documenta e implementa diferentes frameworks y patrones de diseño esenciales en el desarrollo de Android, como <em>Dagger Hilt</em>, <em>Room</em> y <em>Retrofit</em>. Su objetivo es servir como base para acelerar futuros proyectos.</p>
+  <p><strong>Estado:</strong> Continuamente actualizado con nuevas herramientas y prácticas.</p>
+
+</div>
+
+<p align="center">✨ Estos proyectos destacan por mi participación completa desde la conceptualización inicial hasta la implementación final, asegurando código limpio, optimizado y con impacto tangible. ✨</p>
+
 
 
 <h2 align="center">📫 Contacto</h2>
