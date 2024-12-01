@@ -145,9 +145,6 @@ p>
 </ul>
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
-
-- Se están realizando cambios más didácticos respecto a dichos proyectos para mostrarlos con más claridad.
-
 1. [**MovieLists**](https://github.com/xvirs/MovieLists): MovieLists se creó con el objetivo de programar de forma individual una aplicación utilizando lo último en el stack tecnológico de Android y subirla a la Play Store.
 2. [**Reciklo**](https://github.com/xvirs/Reciklo): Reciklo es una aplicación KMP (Kotlin Multiplataforma) realizada en un entorno laboral, y actualmente se encuentra en producción.
 3. [**My_Template**](https://github.com/xvirs/My_Template): My_Template documenta la implementación de diferentes frameworks utilizados para resolver cuestiones comunes en el desarrollo de Android para futuras implementaciones en otros proyectos.
