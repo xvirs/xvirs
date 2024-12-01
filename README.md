@@ -146,26 +146,25 @@ p>
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<div align="center">
+<div style="text-align: left;">
 
-  <h3><a href="https://github.com/xvirs/MovieLists">🎥 MovieLists</a></h3>
+  <h3>🎥 <a href="https://github.com/xvirs/MovieLists">MovieLists</a></h3>
   <p><strong>Descripción:</strong> Una aplicación creada para la gestión y organización de listas de películas. Desarrollada de forma individual utilizando lo último en el stack tecnológico de Android, incluyendo <em>Jetpack Compose</em>, <em>Clean Architecture</em> y <em>Kotlin Coroutines</em>.</p>
   <p><strong>Estado:</strong> Publicada en la <a href="https://play.google.com/">Play Store</a>.</p>
-  <hr style="width: 80%;">
+  <hr>
 
-  <h3><a href="https://github.com/xvirs/Reciklo">♻️ Reciklo</a></h3>
+  <h3>♻️ <a href="https://github.com/xvirs/Reciklo">Reciklo</a></h3>
   <p><strong>Descripción:</strong> Una aplicación multiplataforma (<em>Kotlin Multiplatform - KMP</em>) diseñada para promover el reciclaje en un entorno laboral. Incluye características como notificaciones push y sincronización en tiempo real entre dispositivos.</p>
   <p><strong>Estado:</strong> Actualmente en producción, utilizada activamente en su entorno empresarial.</p>
-  <hr style="width: 80%;">
+  <hr>
 
-  <h3><a href="https://github.com/xvirs/My_Template">📚 My_Template</a></h3>
+  <h3>📚 <a href="https://github.com/xvirs/My_Template">My_Template</a></h3>
   <p><strong>Descripción:</strong> Un repositorio que documenta e implementa diferentes frameworks y patrones de diseño esenciales en el desarrollo de Android, como <em>Dagger Hilt</em>, <em>Room</em> y <em>Retrofit</em>. Su objetivo es servir como base para acelerar futuros proyectos.</p>
   <p><strong>Estado:</strong> Continuamente actualizado con nuevas herramientas y prácticas.</p>
 
 </div>
 
 <p align="center">✨ Estos proyectos destacan por mi participación completa desde la conceptualización inicial hasta la implementación final, asegurando código limpio, optimizado y con impacto tangible. ✨</p>
-
 
 
 <h2 align="center">📫 Contacto</h2>
