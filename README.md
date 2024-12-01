@@ -152,9 +152,10 @@ img src="https://img.shields.io/badge/Dagger%20Hilt-%23A80030.svg?style=for-the-
   <hr>
 
   <h3>♻️ <a href="https://github.com/xvirs/Reciklo">Reciklo</a></h3>
-  <p><strong>Descripción:</strong> Una aplicación multiplataforma (<em>Kotlin Multiplatform - KMP</em>) diseñada para promover el reciclaje en un entorno laboral. Incluye características como notificaciones push y sincronización en tiempo real entre dispositivos.</p>
-  <p><strong>Estado:</strong> Actualmente en producción, utilizada activamente en su entorno empresarial.</p>
-  <hr>
+<p><strong>Descripción:</strong> Una aplicación multiplataforma (<em>Kotlin Multiplatform - KMP</em>) diseñada para la gestión de stock de autopartes y vehículos completos. Permite cargar, organizar y visualizar los productos en una tienda que conecta distintos desarmaderos, facilitando la venta y el intercambio de piezas.</p>
+<p><strong>Estado:</strong> Actualmente en producción, utilizada activamente en el sector de autopartes.</p>
+<hr>
+
 
   <h3>📚 <a href="https://github.com/xvirs/My_Template">My_Template</a></h3>
   <p><strong>Descripción:</strong> Un repositorio que documenta e implementa diferentes frameworks y patrones de diseño esenciales en el desarrollo de Android, como <em>Dagger Hilt</em>, <em>Room</em> y <em>Retrofit</em>. Su objetivo es servir como base para acelerar futuros proyectos.</p>
