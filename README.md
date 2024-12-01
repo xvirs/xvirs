@@ -51,6 +51,7 @@ p>
 <ul>
   <li>
     <img src="https://img.shields.io/badge/SQLDelight-%230095D5.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQLDelight"/> 
+
     <strong> :</strong> Generación de código SQL para bases de datos fuertemente tipadas.
   </li>
   <li>
@@ -144,7 +145,15 @@ p>
 </ul>
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
--Se estan realizando cambios mas didacticos respecto a dichos proyectos para mostrarlos con mas claridad
+
+- Se están realizando cambios más didácticos respecto a dichos proyectos para mostrarlos con más claridad.
+
+1. [**MovieLists**](https://github.com/xvirs/MovieLists): MovieLists se creó con el objetivo de programar de forma individual una aplicación utilizando lo último en el stack tecnológico de Android y subirla a la Play Store.
+2. [**Reciklo**](https://github.com/xvirs/Reciklo): Reciklo es una aplicación KMP (Kotlin Multiplataforma) realizada en un entorno laboral, y actualmente se encuentra en producción.
+3. [**My_Template**](https://github.com/xvirs/My_Template): My_Template documenta la implementación de diferentes frameworks utilizados para resolver cuestiones comunes en el desarrollo de Android para futuras implementaciones en otros proyectos.
+
+Destaco estas aplicaciones por haber participado en el 100% de su desarrollo desde principio a fin.
+
 
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
