@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola! Soy Xavier Eloy Rosales 👋</h1> 
 <h3 align="center">Desarrollador Android | Kotlin Enthusiast</h3>
 
-<p align="center"> Soy un desarrollador apasionado por el ecosistema Android y el aprendizaje continuo, con experiencia en desarrollo nativo, Kotlin Multiplatform (KMP) y Jetpack Compose. Me motiva crear aplicaciones móviles optimizadas, utilizando arquitecturas sólidas y aplicando principios de clean code para garantizar calidad y escalabilidad. </p> <p align="center"> 🎯 **Objetivo profesional:** Seguir perfeccionando mis habilidades y conocimientos para convertirme en un desarrollador Android integral, capaz de abordar proyectos desafiantes, diseñar soluciones innovadoras y aportar valor a equipos que prioricen la excelencia técnica y el crecimiento mutuo. </
-p>
-
+<p align="center"> Desarrollador Android con +3 años de experiencia, enfocado en Clean Architecture y la escritura de código limpio. Apasionado por trabajar con los stacks tecnológicos modernos y el aprendizaje constante. Valoro el intercambio de conocimiento y la colaboración dentro de equipos dinámicos para alcanzar objetivos comunes y crear soluciones de calidad. </p> 
 <h2 align="center">🛠️ Habilidades Técnicas</h2>
 
 <h3>🎨 Diseño de Interfaz de Usuario</h3>
