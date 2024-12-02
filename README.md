@@ -36,8 +36,7 @@
 <h3>🔗 Inyección de Dependencias</h3>
 <ul>
   <li>
-    <
-img src="https://img.shields.io/badge/Dagger%20Hilt-%23A80030.svg?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/> 
+    <img src="https://img.shields.io/badge/Dagger%20Hilt-%23A80030.svg?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/> 
     <strong> :</strong> Framework robusto para inyección de dependencias.
   </li>
   <li>
