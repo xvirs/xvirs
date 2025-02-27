@@ -139,10 +139,6 @@
     <img src="https://img.shields.io/badge/Firebase%20Auth-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Auth"/> 
     <strong> :</strong> Gestión de usuarios mediante autenticación segura.
   </li>
-  <li>
-    <img src="https://img.shields.io/badge/Firebase%20Crashlytics-%23FF6F00.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Messaging"/> 
-    <strong> :</strong> Monitoreo y reporte de errores en tiempo real.
-  </li>
 </ul>
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
